@@ -1,0 +1,3 @@
+[submodule "neretva_rn"]
+	path = neretva_rn
+	url = git@github.com:flee-group/neretva_rn.git
