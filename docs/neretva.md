@@ -4,6 +4,6 @@
 [pictures, blurb about the course, etc]
 
 ### Available data
-[link to river network downloads]
+[Download spatial data for the Neretva](https://github.com/flee-group/neretva_rn/releases)
 
 ![Neretva](img/neretva.jpg)
