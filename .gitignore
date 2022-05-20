@@ -39,3 +39,7 @@ vignettes/*.pdf
 .Renviron
 
 data/*
+
+## ruby crap
+docs/Gemfile*
+docs/_site/*
