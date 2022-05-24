@@ -4,3 +4,6 @@
 [submodule "ybbs_rn"]
 	path = ybbs_rn
 	url = git@github.com:flee-group/ybbs_rn.git
+[submodule "kamp_rn"]
+	path = kamp_rn
+	url = git@github.com:flee-group/kamp_rn.git
