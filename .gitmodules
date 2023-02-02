@@ -7,3 +7,6 @@
 [submodule "kamp_rn"]
 	path = kamp_rn
 	url = git@github.com:flee-group/kamp_rn.git
+[submodule "fanimadh_rn"]
+	path = fanimadh_rn
+	url = git@github.com:flee-group/fanimadh_rn.git
